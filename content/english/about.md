@@ -25,38 +25,10 @@ about:
 ################################ feature #####################################
 features:
   enable : false
+  image : "images/company/hfri.png"
   title : "We are indepented Design & Development Agency"
-  feature_item:
-  # feature item loop
-  - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "IOS App Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "App Secutity"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Games Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Animation and Editing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "UI/UX Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Branding"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
+  content : The WRITE research project was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the “1st Call for H.F.R.I. Research Projects to support Faculty Members & Researchers and the Procurement of High-and the procurement of high-cost research equipment grant.
+  
 
 #################################### testimonial & mission vision #######################################
 testimonial:

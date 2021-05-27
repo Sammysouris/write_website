@@ -183,9 +183,9 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 # Main menu
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
 #[[languages.en.menu.main]]
-#hasChildren = true
+#hasChildren = false
 #name = "More"
-#weight = 5
+#weight = 10
 
 # Footer menu
 [[languages.en.menu.footer]]
@@ -198,10 +198,10 @@ name = "Project"
 URL = "project"
 weight = 2
 
-#[[languages.en.menu.footer]]
-#name = "Service"
-#URL = "service"
-#weight = 3
+[[languages.en.menu.footer]]
+name = "Funding"
+URL = "funding"
+weight = 4
 
 #[[languages.en.menu.footer]]
 #name = "Pricing"

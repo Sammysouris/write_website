@@ -51,7 +51,9 @@ portfolio:
 ############################# Service ############################
 service:
   enable: false
-  # service content comes from "service.md" file
+  image : "images/company/hfri.png"
+  title : "We are indepented Design & Development Agency"
+  content : The WRITE research project was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the “1st Call for H.F.R.I. Research Projects to support Faculty Members & Researchers and the Procurement of High-and the procurement of high-cost research equipment grant.
 
 
 ############################ call to action ###########################
