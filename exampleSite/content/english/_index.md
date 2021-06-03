@@ -37,10 +37,8 @@ Overall, this interdisciplinary project contributes to the broader question of i
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "CONDUCTING RESEARCH UNDER HIGH SCIENTIFIC STANDARDS"
-  content: "The main focus of our work is on handedness and cerebral lateralization (aka hemispheric specialization) for language in healthy adults and children as well as in students with special education needs (e.g., students with dyslexia, dysgraphia, hearing impaired students, and students with low or high IQ). We are employing behavioral as well as brain imaging techniques, specifically functional transcranial Doppler ultrasound (fTCD). One of our major lines of work at the moment is the cerebral lateralization of written language. We further have a special interest in meta-analysis and have published several pieces of work on different aspects of handedness, for example on the incidence of handedness and on sex differences in handedness, but also on handedness differences between the general population and individuals who are hearing impaired, with autism spectrum disorder, and of low or high intelligence.
-
-  At our lab we support open science, i.e., in making scientific research (including publications, data, analysis code, and software) shareable and accessible. We believe that transparent and accessible knowledge speeds ups the research progress and makes findings more reliable. We share our data and materials and aim for our studies to be fully reproducible. In this Open Science Framework page you can find more information on our studies as well as open material, data, and analysis code. We also believe in collaborative work and we are a member of the Consortium of Language Asymmetry (COLA).
+  title: "OPEN SCIENCE"
+  content: "At our lab we support open science, i.e., in making scientific research (including publications, data, analysis code, and software) shareable and accessible. We believe that transparent and accessible knowledge speeds ups the research progress and makes findings more reliable. We share our data and materials and aim for our studies to be fully reproducible. In this [Open Science Framework page](https://osf.io/k63g2/) you can find more information on our studies as well as open material, data, and analysis code. We also believe in collaborative work and we are a member of the Consortium of Language Asymmetry ([COLA](https://colaconsortium.org/)).
   "
   button:
     enable: true
@@ -60,7 +58,7 @@ service:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "Do YOU want to take part on our research?"
+  title: "Do YOU want to take part in our research?"
   content: "We have several studies taking place for both adults and children. <br>
   Send us your details and we will contact you if you fit the inclusion criteria for any of our studies!"
   button:

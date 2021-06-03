@@ -13,7 +13,8 @@ menu:
 about:
   enable : true
   title : "We are funded by the Hellenic Foundation for Research and Innovation (H.F.R.I.)"
-  content : "The WRITE research project was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the “1st Call for H.F.R.I. Research Projects to support Faculty Members & Researchers and the Procurement of High-and the procurement of high-cost research equipment grant."
+  content : "The WRITE research project was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the “1st Call for H.F.R.I. Research Projects to support Faculty Members & Researchers and the Procurement of High-and the procurement of high-cost research equipment grant. <br>
+  Project Number: HFRI-FM17-746"
   image : "images/company/hfri.png"
 
 ########################## featured service ############################
