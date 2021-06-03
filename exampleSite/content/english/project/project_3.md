@@ -1,6 +1,6 @@
 ---
-title: "Writing in Smartphones"
-description: "just a 'dumbed-down' version of regular writing?"
+title: "Writing in Mobile Phones"
+description: "what is its cerebral laterality patterns in left- and right-handers?"
 draft: false
 image : "images/portfolio/smartphone_1.jpg"
 bg_image: "images/feature-bg.jpg"
@@ -11,6 +11,6 @@ information:
 
 ---
 
-## Comparing writing in smartphones to traditional pen-and-paper writing.
+## Comparing writing in mobile phones to traditional pen-and-paper writing.
 
-Investigate, for the first time in the literature, the cerebral laterality for typing using mobile phones versus handwriting. Typing using mobile phones is another widely utilized form of writing that has not received research attention to date.
+This study aims to investigate, for the first time in the literature, the cerebral laterality for typing using mobile phones versus handwriting. Typing using mobile phones is another widely utilized form of writing that has not received research attention to date.

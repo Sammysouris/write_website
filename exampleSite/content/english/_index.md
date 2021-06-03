@@ -72,7 +72,7 @@ cta:
 funfacts:
   enable: true
   title: "Fun Facts About Us"
-  description: "We are a team lead by Associate Professor Marietta Papadatou-Pastou and we are based in Athens."
+  description: "We are a team led by Associate Professor Marietta Papadatou-Pastou and we are based in Athens."
   funfact_item:
   # funfacts item loop
   - icon: "ion-ios-chatboxes-outline" #ionicon pack v2: https://ionicons.com/v2/
