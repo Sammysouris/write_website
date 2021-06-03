@@ -98,20 +98,20 @@ funfacts:
   # testimonial item loop
   - name: "Christos Samsouris"
     image: "images/clients/avatar-1.jpg"
-    designation: "CEO of Neuroscience"
-    content: "I analyse data and stuff."
+    designation: "PhD student"
+    content: "Projects 2,3,4 and 5."
 
   # testimonial item loop
   - name: "Nandia Papadopoulou"
     image: "images/clients/avatar-2.jpg"
-    designation: "President of Research"
-    content: "I cure children from their dyslexia."
+    designation: "PhD student"
+    content: "Projects 1,6, and 7."
 
   # testimonial item loop
   - name: "Marietta Papadatou-Pastou"
     image: "images/clients/avatar-3.jpg"
-    designation: "Global Leader of Laterality"
-    content: "I never approved of those slides."
+    designation: "Assistant Professor"
+    content: "Supervisor."
 
 
 ---

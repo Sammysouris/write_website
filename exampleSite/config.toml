@@ -37,10 +37,11 @@ ordered = false
 
 ################################# Default parameters ##########################
 [params]
+favicon = "images/favicon.png"
 logo = "images/logo.png"
 logo_width = "80px"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "This is the website for the WRITE project."
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
