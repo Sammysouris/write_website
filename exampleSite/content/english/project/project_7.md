@@ -17,6 +17,6 @@ Previous research (Richards & Berninger, 2008; Shaywitz et al., 2004; Simos et a
 
 
 
-Richards, T. L., & Berninger, V. W. (2008). Abnormal fMRI connectivity in children with dyslexia during a phoneme task: Before but not after treatment. Journal of neurolinguistics, 21(4), 294-304
-Shaywitz, B. A., Shaywitz, S. E., Blachman, B. A., Pugh, K. R., Fulbright, R. K., Skudlarski, P., . . . Marchione, K. E. (2004). Development of left occipitotemporal systems for skilled reading in children after a phonologically-based intervention. Biological psychiatry, 55(9), 926-933. 
-Simos, P. G., Fletcher, J. M., Bergman, E., Breier, J., Foorman, B., Castillo, E., . . . Papanicolaou, A. (2002). Dyslexia-specific brain activation profile becomes normal following successful remedial training. Neurology, 58(8), 1203-1213. 
+Richards, T. L., & Berninger, V. W. (2008). Abnormal fMRI connectivity in children with dyslexia during a phoneme task: Before but not after treatment. *Journal Of Neurolinguistics, 21(4), 294-304*.
+Shaywitz, B. A., Shaywitz, S. E., Blachman, B. A., Pugh, K. R., Fulbright, R. K., Skudlarski, P., . . . Marchione, K. E. (2004). Development of left occipitotemporal systems for skilled reading in children after a phonologically-based intervention. *Biological Psychiatry, 55(9), 926-933*. 
+Simos, P. G., Fletcher, J. M., Bergman, E., Breier, J., Foorman, B., Castillo, E., . . . Papanicolaou, A. (2002). Dyslexia-specific brain activation profile becomes normal following successful remedial training. *Neurology, 58(8), 1203-1213*. 

@@ -17,5 +17,5 @@ The aim of this study is to investigate, for the first time in the literature, t
 
 
 
-Groen, M. A., Whitehouse, A. J. O., Badcock, N. A., & Bishop, D. V. M. (2012). Does cerebral lateralization develop ? A study using functional transcranial Doppler ultrasound assessing lateralization for language production and visuospatial memory. https://doi.org/10.1002/brb3.56
-Gimenez, P., Bugescu, N., Black, J. M., Hancock, R., Pugh, K., Nagamine, M., Kutner, E., Mazaika, P., Hendren, R., McCandliss, B. D., & Hoeft, F. (2014). Neuroimaging correlates of handwriting quality as children learn to read and write. Frontiers in Human Neuroscience, 8(MAR), 155. https://doi.org/10.3389/fnhum.2014.00155
+Groen, M. A., Whitehouse, A. J. O., Badcock, N. A., & Bishop, D. V. M. (2012). Does cerebral lateralization develop? A study using functional transcranial Doppler ultrasound assessing lateralization for language production and visuospatial memory. *Brain and Behavior, 2(3), 256–269*. https://doi.org/10.1002/brb3.56
+Gimenez, P., Bugescu, N., Black, J. M., Hancock, R., Pugh, K., Nagamine, M., Kutner, E., Mazaika, P., Hendren, R., McCandliss, B. D., & Hoeft, F. (2014). Neuroimaging correlates of handwriting quality as children learn to read and write. *Frontiers in Human Neuroscience, 8(MAR), 155*. https://doi.org/10.3389/fnhum.2014.00155
