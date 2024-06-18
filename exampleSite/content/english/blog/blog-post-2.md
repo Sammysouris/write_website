@@ -2,8 +2,6 @@
 title: "Study 1"
 date: 2024-06-18T10:42:13+03:00
 author: Christos Samsouris
-#image : "images/blog/blog-post-1.jpg"
-#bg_image: "images/feature-bg.jpg"
 categories: ["Studies"]
 tags: ["News"]
 description: ""
