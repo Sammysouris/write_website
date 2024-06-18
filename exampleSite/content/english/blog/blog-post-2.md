@@ -4,7 +4,7 @@ date: 2024-06-18T10:42:13+03:00
 author: Christos Samsouris
 categories: ["Studies"]
 tags: ["News"]
-description: ""
+description: "Motor Component of Writing"
 draft: false
 type: "post"
 ---
