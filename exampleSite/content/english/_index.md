@@ -97,13 +97,13 @@ funfacts:
   - name: "Christos Samsouris"
     image: "images/clients/avatar-1.jpg"
     designation: "PhD student"
-    content: "Projects 2,3,4 and 5."
+    content: "Projects 2,3,and 4."
 
   # testimonial item loop
   - name: "Nandia Papadopoulou"
     image: "images/clients/avatar-2.jpg"
     designation: "PhD student"
-    content: "Projects 1,6, and 7."
+    content: "Projects 1,5, and 6."
 
   # testimonial item loop
   - name: "Marietta Papadatou-Pastou"

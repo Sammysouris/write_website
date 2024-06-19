@@ -6,7 +6,7 @@ layout: "about"
 draft: false
 menu:
   main:
-    name: "Discover"
+    name: "Team"
     weight: 2
 
 
@@ -15,7 +15,7 @@ about:
   enable : true
   image : "images/company/brain.jpg"
   title : "We study cerebral laterality and handedness."
-  content : "Oh, hi! I didn’t see you there. We’re glad that you are visiting our site for the project WRITE. Uhmm… Do you want some coffee? Tea maybe? Well, suit yourself and check out our projects. Let us know if you have any questions - we’ll be happy to answer them!"
+  content : "Let us know if you have any questions - we’ll be happy to answer them!"
 
   button:
     enable : true
@@ -65,6 +65,16 @@ mission_vision:
   - name : "Silvia"
     content : "Silvia Paracchini <br> DPhil FRSE FRSB , Reader in Medicine University of St Andrews <br>
     I graduated in Biological Sciences (cum laude) from University of Pavia in 1998 and obtained a DPhil in Human Genetics from Oxford University in 2003. My project, supervised by Dr Chris Tyler-Smith and Prof. Ed Southern involved the development of genotyping methods and screening of large cohorts for genetic associations with prostate cancer and male infertility. I conducted my post-doctoral training in Prof. Anthony Monaco’s group at the Welcome Trust Centre for Human Genetics, Oxford University. In 2011 I was awarded a Royal Society University Research Fellowship to set up my group at St Andrews. In 2013 I became member of the Young Academy of Scotland. In 2018 I was elected Fellow of the Royal Society of Biology (FRSB) and in 2019 I became a Fellow of the Royal Society of Edinburgh (FRSE) and was promoted to Reader. I lead the St Andrews Bioinformatics Unit and I am the co-Director of the the Institute of Behavioural and Neural Sciences."
+
+ # tab item loop
+  - name : "Filippos"
+    content : "Filippos Vlachos <br> Senior Lecturer of Psychological Science, University of Western Australia <br>
+    Professor Vlachos"
+
+  # tab item loop
+  - name : "Phivos"
+    content : "Phivos Phylachtou <br> DPhil FRSE FRSB , Reader in Medicine University of St Andrews <br>
+    Dr Phivos."
 
 
 ############################# call to action #################################
