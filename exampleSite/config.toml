@@ -180,7 +180,7 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 
 # Footer menu
 [[languages.en.menu.footer]]
-name = "Discover"
+name = "Team"
 URL = "about"
 weight = 1
 

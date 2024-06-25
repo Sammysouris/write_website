@@ -68,13 +68,16 @@ mission_vision:
 
  # tab item loop
   - name : "Filippos"
-    content : "Filippos Vlachos <br> Senior Lecturer of Psychological Science, University of Western Australia <br>
-    Professor Vlachos"
+    content : "Filippos Vlachos <br> Professor of Educational Neuroscience & Developmental Disorders, University of Thessaly <br>
+    Professor Vlachos is a Professor at the University of Thessaly, Greece, where he has taught and conducted research since 1997 and Director of Educational Neuroscience and Developmental Disorders Laboratory. He is the author of the book Handedness: Myths and Reality (in Greek), editor of the book Brain, Learning & Special Education (in Greek) and co-editor in three more scientific editions. He has published more than 160 articles in referred national & international journals, book chapters and congress proceedings, with more than 1300 known citations. His research interests include the investigation of the neural mechanisms of reading, numerical cognition, attention and their attendant difficulties including learning difficulties and other developmental disorders as they relate to education, as well as the relationship between brain laterality and cognitive abilities."
 
   # tab item loop
   - name : "Phivos"
-    content : "Phivos Phylachtou <br> DPhil FRSE FRSB , Reader in Medicine University of St Andrews <br>
-    Dr Phivos."
+    content : "Phivos Phylachtou <br> Post-Doctoral Associate, School of Physical Therapy, University of Western Ontario <br>
+    I am an experimental psychologist interested in cognitive neuroscience. In short, I spend most of my time bringing people into a lab, having them play weird, boring, video games, while zapping their brain using magnetic pulses, with a machine called Transcranial Magnetic Stimulator (TMS). <br> 
+    
+    TMS is a safe, non-invasive, and reliable tool for brain stimulation. I use it to understand how the brain processes visual information. You can read more on that [here](https://phivph.github.io/projects.html). <br> 
+    Sometimes, I also like to record people’s eyes, using a very precise camera, commonly known as an eye-tracker, while they’re playing these boring games. With the eye-tracker, I can measure where the eye is looking or how the pupil size is changing with amazing temporal precision, of up to a thousand measures a second! In general, I am excited to understand how we make sense of the world around us. "
 
 
 ############################# call to action #################################

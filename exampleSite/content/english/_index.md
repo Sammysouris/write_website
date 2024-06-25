@@ -85,7 +85,7 @@ funfacts:
   # funfacts item loop
   - icon: "ion-ios-compose-outline" #ionicon pack v2: https://ionicons.com/v2/
     name: "Ongoing Projects"
-    count: "7"
+    count: "6"
 
   # funfacts item loop
   - icon: "ion-ios-timer-outline" #ionicon pack v2: https://ionicons.com/v2/
