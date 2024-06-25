@@ -1,7 +1,7 @@
 ---
 title: "Latest News"
 description: "about studies, conferences, papers, and more!"
-draft: false
+draft: true
 bg_image: "images/feature-bg.jpg"
 menu:
   main:
