@@ -38,7 +38,7 @@ portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
   title: "OPEN SCIENCE"
-  content: "At our lab we support open science, i.e., in making scientific research (including publications, data, analysis code, and software) shareable and accessible. We believe that transparent and accessible knowledge speeds ups the research progress and makes findings more reliable. We share our data and materials and aim for our studies to be fully reproducible. In this [Open Science Framework page](https://osf.io/k63g2/) you can find more information on our studies as well as open material, data, and analysis code. We also believe in collaborative work and we are a member of the Consortium of Language Asymmetry ([COLA](https://colaconsortium.org/)).
+  content: "At our lab we support open science, i.e., in making scientific research (including publications, data, analysis code, and software) shareable and accessible. We believe that transparent and accessible knowledge speeds ups the research progress and makes findings more reliable. We share our data and materials and aim for our studies to be fully reproducible. In this [Open Science Framework page](https://osf.io/7azpu/) you can find more information on our studies as well as open material, data, and analysis code.
   "
   button:
     enable: true
@@ -100,7 +100,7 @@ funfacts:
     content: "Projects 2,3,and 4."
 
   # testimonial item loop
-  - name: "Nandia Papadopoulou"
+  - name: "Dr Nandia Papadopoulou"
     image: "images/clients/avatar-2.jpg"
     designation: "PhD student"
     content: "Projects 1,5, and 6."

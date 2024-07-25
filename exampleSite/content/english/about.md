@@ -48,8 +48,8 @@ mission_vision:
 
   # tab item loop
   - name : "Nadia"
-    content : "Nadia Papadopoulou <br> PhD Student <br>
-    During my undergraduate studies in Biology, in the National and Kapodistrian University of Athens (NKUA), my keen interest in studying the nervous system and behavior grew. Therefore, I proceeded with the Athens International Master’s Programme in Neurosciences, offered by the NKUA, in order to focus on the brain and how its functions are interpreted into behavior. For my PhD, I am pleased to study the lateralization of the brain in the process of written language both in adults and in children with dyslexia and/or dysgraphia, but also how lateralization patterns can be altered after a phonological intervention in children with dyslexia."
+    content : "Nadia Papadopoulou <br> PhD <br>
+    During my undergraduate studies in Biology, in the National and Kapodistrian University of Athens (NKUA), my keen interest in studying the nervous system and behavior grew. Therefore, I proceeded with the Athens International Master’s Programme in Neurosciences, offered by the NKUA, in order to focus on the brain and how its functions are interpreted into behavior. For my PhD, I am pleased to study the lateralization of the brain in the process of written language both in adults and in children with dyslexia and/or dysgraphia, but also how lateralization patterns can be altered after a phonological intervention in children with dyslexia. I have now completed my PhD and am excited to continue my research as part of the lab."
 
   # tab item loop
   - name : "Christos"
